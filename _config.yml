@@ -12,7 +12,7 @@ blog_theme: dark # Or use dark
 name: anuree
 tagline: anuree thayarat
 about-description: # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: https://s-media-cache-ak0.pinimg.com/236x/cd/08/cf/cd08cfe403bf890c8e22ce48100f925c--hermione-emma-watson.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: anuree.tcs57@ubru.ac.th # Add your Email address
