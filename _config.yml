@@ -12,7 +12,7 @@ blog_theme: dark # Or use dark
 name: anuree
 tagline: anuree thayarat
 about-description: # Add Discription
-pic: ![Note8](https://pbs.twimg.com/media/CtHuONLUIAESkI9.jpg)  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: https://pbs.twimg.com/media/CtHuONLUIAESkI9.jpg 
 
 # Contact links
 email: anuree.tcs57@ubru.ac.th # Add your Email address
