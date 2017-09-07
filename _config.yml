@@ -1,4 +1,4 @@
-title: Wendell Thomas
+title: anuree
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,14 +9,14 @@ permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: Wendell Thomas
-tagline: Full Stack Developer
+name: anuree
+tagline: anuree thayarat
 about-description: # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
+email: anuree.tcs57@ubru.ac.th # Add your Email address
+phone: 0853045150 # Add your Phone number
 website: artemsheludko.pw # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: artemsheludko # Add your Github handle
